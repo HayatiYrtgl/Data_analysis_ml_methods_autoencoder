@@ -27,7 +27,7 @@ This project implements a machine learning pipeline to detect network anomalies 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/network-anomaly-detection](https://github.com/HayatiYrtgl/Data_analysis_ml_methods_autoencoder.git
+    git clone https://github.com/HayatiYrtgl/Data_analysis_ml_methods_autoencoder.git
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
